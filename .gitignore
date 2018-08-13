@@ -1,0 +1,4 @@
+venv/
+crawls/
+.idea/
+__pycache__/
